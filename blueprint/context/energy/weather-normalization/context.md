@@ -168,6 +168,10 @@ In this feature, the Energy Manager is the primary user. They need weather-norma
 **ADRs:**
 - None yet — regression methodology decision (ASHRAE IMT) may warrant a formal ADR if challenged
 
+**Supporting documents:**
+- [PRD](prd.md) — formal requirements, user stories, and acceptance criteria
+- [Design Flows](flow.md) — step-by-step user journeys for all key flows
+
 ---
 
 ## Dependencies
@@ -207,4 +211,4 @@ In this feature, the Energy Manager is the primary user. They need weather-norma
 ## Decision log
 
 - **2026-03-10** Feature scoped.
-- **2026-03-11** Feature kickoff. Portfolio-wide focus defined. Problem, users, domain context, scope, happy path, edge cases, design principles, key screens, architecture touchpoints, and key technical decisions documented. Weather provider decided: NOAA. Regression methodology decided: ASHRAE IMT. Owners assigned: Gresa Bytyqi (Design), Endrit Gojani (Tech Lead).
+- **2026-03-11** Feature kickoff. Portfolio-wide focus defined. Problem, users, domain context, scope, happy path, edge cases, design principles, key screens, architecture touchpoints, and key technical decisions documented. Weather provider decided: NOAA. Regression methodology decided: ASHRAE IMT. Owners assigned: Gresa Bytyqi (Design), Endrit Gojani (Tech Lead). PRD and design flows created.

@@ -121,6 +121,8 @@ Context: [energy/weather-normalization/context.md](energy/weather-normalization/
 - [x] Key screens / states identified
 - [ ] Figma linked
 - [x] Architecture touchpoints mapped
+- [x] PRD created ([prd.md](energy/weather-normalization/prd.md))
+- [x] Design flows created ([flow.md](energy/weather-normalization/flow.md))
 - [ ] Cross-team review completed (if needed)
 - [ ] ADR created (if irreversible decision)
 
